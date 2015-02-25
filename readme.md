@@ -1,5 +1,7 @@
 ## Areas where one could specialize:
 
+_To contribute, fork this repo and follow the conventions below. Start categories with `###` and sub-sections of that category with a `*`. Please add new categories alphabetically._
+
 ### 3D Modeling
 
 * Unity
