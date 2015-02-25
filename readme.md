@@ -6,6 +6,8 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 
 * Unity
 
+### Algorithms
+
 ### APIs
 
 * Add a subcategory or additional areas of sub-specialization
