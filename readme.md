@@ -39,6 +39,8 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 * Hydrogen
 * Nuclear
 
+### Finance
+
 ### Gesture Recognition
 
 ### Logistics
