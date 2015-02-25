@@ -64,6 +64,8 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 
 ### Security
 
+### Telecommunications
+
 ### Virtual Reality
 
 ### Voice Recognition
