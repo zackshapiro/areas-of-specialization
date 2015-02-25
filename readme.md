@@ -20,6 +20,8 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 
 ### Blockchain
 
+### Climate Change
+
 ### Cryptography
 
 ### Data Visualization
@@ -27,6 +29,13 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 ### Drones
 
 ### E-Commerce
+
+### Education
+
+### Energy
+
+* Hydrogen
+* Nuclear
 
 ### Gesture Recognition
 
@@ -43,7 +52,11 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 * Android
 * iOS
 
+### Robotics
+
 ### Search
+
+### Sharing/Gig/1099 Economy (or peer-to-peer networks)
 
 ### Security
 
