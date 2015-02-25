@@ -5,6 +5,10 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 ### 3D Modeling
 
 * Unity
+* Computer-aided design (CAD)
+
+
+### 3D Printing
 
 ### Algorithms
 
@@ -27,6 +31,11 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 ### Cryptography
 
 ### Data Visualization
+
+### DNA
+
+* Storing data
+* Sequencing
 
 ### Drones
 
@@ -63,6 +72,12 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 ### Sharing/Gig/1099 Economy (or peer-to-peer networks)
 
 ### Security
+
+### Sports Science
+
+* Physical performance
+* Mental performance
+* Nutrition
 
 ### Telecommunications
 
