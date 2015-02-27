@@ -14,7 +14,7 @@ _To contribute, fork this repo and follow the conventions below. Start categorie
 
 ### APIs
 
-* Add a subcategory or additional areas of sub-specialization
+* Fundamentals of HTTP
 
 ### Artificial Intelligence
 
